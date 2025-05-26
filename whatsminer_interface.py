@@ -4,7 +4,7 @@ import json
 import time
 from typing import Any, Dict, Optional, Union
 
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 
 
 class WhatsminerAPIv3:
